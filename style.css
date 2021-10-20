@@ -1,0 +1,83 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+#header{
+    display: flex;
+padding-bottom: 40px;
+
+}
+.header-part{
+    width: 50%;
+    padding-left: 7%;
+    padding-top: 10%;
+}
+.text-c{
+    color: coral;
+}
+.link-c{
+    padding: 20px 45px;
+    background-image: linear-gradient(red, yellow );
+    text-decoration: none;
+    border-radius: 30px;
+    
+    
+}
+h1{
+    font-size: 40px;
+}
+.header-part img{
+    width: 100%;
+}
+.text-co{
+    color: rgb(131, 122, 122);
+    font-size: 25px;
+}
+.text-color{
+    color: rgb(65, 52, 52);
+}
+.text-col{
+    color: rgb(131, 122, 122);
+    padding-bottom: 5%;
+    font-size: 25px;
+}
+
+
+#about-me{
+    display: flex;
+    background-color: rgb(236, 236, 233);
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin: 0;
+}
+.about-me-part{
+    width: 50%;
+    padding: 8px 0 3px 5px;
+}
+.about-me-part img{
+    width: 50%;
+    padding-left: 30%;
+}
+.contact{
+    padding: 20px 40px;
+    border-radius: 40px;
+    background-image: linear-gradient(to right, orange,rgb(187, 64, 64));
+    text-decoration: none;
+    color: white;
+    
+}
+.abou-t{
+    color: rgb(78, 80, 63);
+    
+}
+.ab-p{
+    padding-bottom: 100px;
+}
+.my-r{
+    text-align: center;
+}
+.ric-p{
+    text-align: center;
+    text-decoration: none;
+    
+}
